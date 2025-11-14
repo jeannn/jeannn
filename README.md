@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Jean Marcel N’cho
 
-<img src="https://raw.githubusercontent.com/jeannn/jeannn/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/jeannn/jeannn/snake.svg" alt="Snake animation" />
 
 ###
 ## 🚀 Software Developer New Grad | IT Technician
