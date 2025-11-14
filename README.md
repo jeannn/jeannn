@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Jean Marcel N’cho
 
 
-## 🚀 Software Developer | New Grad | IT Technician
+## 🚀 Software Developer New Grad | IT Technician
 
 Motivated **Software Engineering graduate** with strong hands-on experience in **full‑stack development**, **IT systems support**, and building practical software solutions.
 
