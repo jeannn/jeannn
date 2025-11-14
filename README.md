@@ -1,6 +1,5 @@
 # 👋 Hi, I'm Jean Marcel N’cho
 
-<img src="https://avatars.githubusercontent.com/u/00000000?v=4" alt="Profile Banner" style="width:100%; border-radius: 12px;" />
 
 ## 🚀 Software Developer | New Grad | IT Technician
 
@@ -46,18 +45,6 @@ design and implementation of a C++ application demonstrating key programming con
 
 A mini-game inspired by the classic Flappy Bird, built with Unity.
 
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" alt="GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" alt="Top languages" />
-</p>
 
 ---
 
